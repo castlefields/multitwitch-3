@@ -20,8 +20,8 @@ NB: The app currently only support 4 streams at the same time
 
 ### TODO
 
-	- Support unlimited streams
+- Support unlimited streams
 
-	- Support tchat
+- Support tchat
 
-	- Make it prettier
+- Make it prettier
