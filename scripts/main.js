@@ -13,7 +13,7 @@ import StreamPicker from './components/StreamPicker';
 var routes = (
 	<Router history={browserHistory}>
 		<Route path="/" component={StreamPicker}/>
-		<Route path="/:streamId(/:streamId2)(/:streamId3)(/:streamId4)" component={App}/>
+		<Route path="*" component={App}/>
 	</Router>
 );
 
