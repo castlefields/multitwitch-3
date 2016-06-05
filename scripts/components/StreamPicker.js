@@ -22,7 +22,7 @@ class StreamPicker extends React.Component {
 				streamIds.push(value);
 			}
 		});
-		browserHistory.push('/' + streamIds.join('/'));
+		browserHistory.push('/multitwitch/' + streamIds.join('/'));
 	}
 
 	addStream() {
