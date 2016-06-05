@@ -21,5 +21,3 @@ But you can also access stream directly in the url (ex: /stream1/stream2)
 - Support tchat
 
 - Make it prettier
-
-- Host it on github pages
