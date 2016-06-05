@@ -25,3 +25,5 @@ NB: The app currently only support 4 streams at the same time
 - Support tchat
 
 - Make it prettier
+
+- Host it on github pages
